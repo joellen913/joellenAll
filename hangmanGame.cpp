@@ -92,7 +92,6 @@ int main()
 			//string blanks; 
 			
 				//set that letter to the position of the letter over the underscore 
-				//issue with this part, wouldnt set the guessed letter over the underscore
                 		blanks.replace(i,1,letterGuess);
                               
 				//check if its true 
